@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Initial Setup:
 
-Things you may want to cover:
+- Create file in root folder called '.env' with your environment variables. Example Content:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+DB_USERNAME="root"
+DB_PASSWORD="pw"
+DB_PORT=3306
